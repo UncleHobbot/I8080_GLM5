@@ -2,6 +2,11 @@
 
 A full-featured Intel 8080 microprocessor emulator with CP/M operating system, built with .NET 10 backend and React frontend.
 
+## Documentation
+
+- **[User Guide](docs/USER_GUIDE.md)** - Complete terminal and system program documentation
+- **[Quick Reference](docs/QUICK_REFERENCE.md)** - Commands and instructions cheat sheet
+
 ## Features
 
 - **Intel 8080 CPU Emulation**: Complete instruction set support
