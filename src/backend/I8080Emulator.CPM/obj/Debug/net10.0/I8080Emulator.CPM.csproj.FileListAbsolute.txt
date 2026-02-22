@@ -1,0 +1,15 @@
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\bin\Debug\net10.0\I8080Emulator.CPM.deps.json
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\bin\Debug\net10.0\I8080Emulator.CPM.dll
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\bin\Debug\net10.0\I8080Emulator.CPM.pdb
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\bin\Debug\net10.0\I8080Emulator.Core.dll
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\bin\Debug\net10.0\I8080Emulator.Core.pdb
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.csproj.AssemblyReference.cache
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.AssemblyInfoInputs.cache
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.AssemblyInfo.cs
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.csproj.CoreCompileInputs.cache
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emu.83A9B0FA.Up2Date
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.dll
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\refint\I8080Emulator.CPM.dll
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\I8080Emulator.CPM.pdb
+C:\Projects\AI\i8080_GLM5\src\backend\I8080Emulator.CPM\obj\Debug\net10.0\ref\I8080Emulator.CPM.dll

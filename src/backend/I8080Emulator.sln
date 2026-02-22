@@ -1,0 +1,15 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I8080Emulator.Core", "I8080Emulator.Core\I8080Emulator.Core.csproj", "{A1B2C3D4-1234-5678-9ABC-DEF012345601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I8080Emulator.CPM", "I8080Emulator.CPM\I8080Emulator.CPM.csproj", "{A1B2C3D4-1234-5678-9ABC-DEF012345602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I8080Emulator.Api", "I8080Emulator.Api\I8080Emulator.Api.csproj", "{A1B2C3D4-1234-5678-9ABC-DEF012345603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
